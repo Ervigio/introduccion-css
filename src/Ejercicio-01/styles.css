@@ -1,0 +1,22 @@
+/* No lo solicita el ejercicio pero le aplicaremos el selector de tipos
+universal para quitarle los márgenes a la página */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para el primer párrafo 1 */
+p{
+    background-color: rgb(238, 189, 189);
+}
+
+/* Estilos para el párrafo 2 */
+.destacado{
+    border: 8px solid rgba(46, 255, 220, 0.781);
+}
+
+/* Estilos para el párrafo 3 */
+#parrafo-grande{
+    font-size: 2rem;
+}

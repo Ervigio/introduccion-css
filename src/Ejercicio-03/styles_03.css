@@ -1,0 +1,7 @@
+/* Estilos del Box model*/
+.box {
+    width: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: bottom 30px; ;
+}

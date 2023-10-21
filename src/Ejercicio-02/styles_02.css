@@ -1,0 +1,12 @@
+/* Estilo para los encabezados h1 */
+h1{
+    color: red;
+}
+
+/* Estilos para los párrafos dentro del contenedor con clase "container" */
+.container p {
+    color: blue;
+}
+.blue-text {
+    color:green
+}
